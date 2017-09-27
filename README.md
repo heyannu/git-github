@@ -1,2 +1,4 @@
 # git-github
-trying to learn GIT
+Trying to learn GIT
+This is just for learning purpose
+
